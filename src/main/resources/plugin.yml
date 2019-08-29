@@ -1,0 +1,11 @@
+name: "PluginRenamer"
+version: "1.0-DEV"
+
+description: "PluginRenamer is a simple to use plugin that can, well.. rename plugins."
+prefix: "Renamer"
+load: POSTWORLD
+
+author: "Kotlin @ MC-Market"
+website: "https://selyu.xyz"
+api-version: "1.13"
+main: "xyz.selyu.renamer.Renamer"
